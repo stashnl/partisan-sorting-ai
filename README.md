@@ -61,6 +61,12 @@ To run a notebook from the command line instead:
 jupyter nbconvert --to notebook --execute --inplace 01_feature_driven_network.ipynb
 ```
 
+## Background and AI assistance
+
+This project began in A. I. Băbeanu's *Structures of Networks* course at Leiden University and was revived as coursework at CEU in 2026.
+
+**The code was written with substantial AI coding assistance (Claude), under my direction.**
+
 ## Credits
 
 - **Petter Törnberg**, for the partisan-sorting model this project re-implements and extends: Törnberg, P. (2022). How digital media drive affective polarization through partisan sorting. *PNAS*, 119(42), e2207159119. https://doi.org/10.1073/pnas.2207159119
