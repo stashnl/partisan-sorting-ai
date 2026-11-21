@@ -1,0 +1,18 @@
+# Cross-platform (macOS / Windows / Linux) environment for the polarisation project.
+#   conda env create -f environment.yml
+#   conda activate socnet-polar
+#   python -m ipykernel install --user --name socnet-polar --display-name "Python (socnet-polar)"
+name: socnet-polar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - networkx
+  - numba
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - ipykernel
+  - nbconvert
