@@ -65,7 +65,7 @@ jupyter nbconvert --to notebook --execute --inplace 01_feature_driven_network.ip
 
 This project began in A. I. Băbeanu's *Structures of Networks* course at Leiden University and was revived as coursework at CEU in 2026.
 
-**The code was written with substantial AI coding assistance (Claude), under my direction.**
+**The code was written with AI coding assistance.**
 
 ## Credits
 
